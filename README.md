@@ -3,10 +3,10 @@
 
    Alternativamente, dentro do cliente mysql
 
-5. `npm install`
-6. `npm run build`
-7. `npm start`
-8. Abra `http://localhost:3000` e teste `http://localhost:3000/api/health`
+1. `npm install`
+2. `npm run build`
+3. `npm start`
+4. Abra `http://localhost:3000` e teste `http://localhost:3000/api/health`
    
   
 POST /api/alunos → HTTP 201 ao cadastrar.
